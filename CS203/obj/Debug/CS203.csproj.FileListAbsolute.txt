@@ -1,0 +1,90 @@
+C:\Users\Admin\source\repos\CS203\CS203\bin\Debug\CS203.exe.config
+C:\Users\Admin\source\repos\CS203\CS203\bin\Debug\CS203.exe
+C:\Users\Admin\source\repos\CS203\CS203\bin\Debug\CS203.pdb
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.Form1.resources
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.exe
+C:\Users\Admin\source\repos\CS203\CS203\obj\Debug\CS203.pdb
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\bin\Debug\CS203.exe.config
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\bin\Debug\CS203.exe
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\bin\Debug\CS203.pdb
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.Form1.resources
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.exe
+Z:\FF316\TERO, JOHN HENRY\Finals\CS203\CS203\obj\Debug\CS203.pdb
+C:\Users\Asus\source\repos\CS203\CS203\bin\Debug\CS203.exe.config
+C:\Users\Asus\source\repos\CS203\CS203\bin\Debug\CS203.exe
+C:\Users\Asus\source\repos\CS203\CS203\bin\Debug\CS203.pdb
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.Form1.resources
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.exe
+C:\Users\Asus\source\repos\CS203\CS203\obj\Debug\CS203.pdb
+C:\Users\FF310\Downloads\CS203\CS203\bin\Debug\CS203.exe.config
+C:\Users\FF310\Downloads\CS203\CS203\bin\Debug\CS203.exe
+C:\Users\FF310\Downloads\CS203\CS203\bin\Debug\CS203.pdb
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.exe
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.pdb
+C:\Users\FF310\Downloads\CS203\CS203\obj\Debug\CS203.OK.resources
+Z:\FF310\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+Z:\FF310\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+Z:\FF310\CS203\CS203\obj\Debug\CS203.OK.resources
+Z:\FF310\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+Z:\FF310\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+Z:\FF310\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+Z:\FF310\CS203\CS203\obj\Debug\CS203.exe
+Z:\FF310\CS203\CS203\obj\Debug\CS203.pdb
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.OK.resources
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.exe
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\obj\Debug\CS203.pdb
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\bin\Debug\CS203.exe.config
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\bin\Debug\CS203.exe
+C:\Users\User\Desktop\CS203-20230428T030504Z-001\CS203\CS203\bin\Debug\CS203.pdb
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.exe
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.pdb
+C:\Users\User\Desktop\CS203\CS203\CS203\bin\Debug\CS203.exe.config
+C:\Users\User\Desktop\CS203\CS203\CS203\bin\Debug\CS203.exe
+C:\Users\User\Desktop\CS203\CS203\CS203\bin\Debug\CS203.pdb
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.DFS.resources
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.Form1.resources
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.Menu.resources
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CS203\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS203\CS203\bin\Debug\CS203.exe.config
+C:\Users\User\Desktop\CS203\CS203\bin\Debug\CS203.exe
+C:\Users\User\Desktop\CS203\CS203\bin\Debug\CS203.pdb
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.DFS.resources
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.Form1.resources
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.USC.resources
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.Menu.resources
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.Properties.Resources.resources
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.csproj.GenerateResource.cache
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.exe
+C:\Users\User\Desktop\CS203\CS203\obj\Debug\CS203.pdb
